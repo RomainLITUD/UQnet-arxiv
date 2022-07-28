@@ -1,0 +1,9 @@
+torch>=1.11.0
+tqdm
+matplotlib
+scipy
+shapely
+pandas = 1.4.2
+pickle
+networkx
+skimage
