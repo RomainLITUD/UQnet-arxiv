@@ -4,6 +4,8 @@
 ### [Dittlab Online Demo (click)](http://mirrors-dev.citg.tudelft.nl:8082/uqnet-main.py/)
 - This is the official source code of the paper manuscript: **<UQnet: quantifying spatial uncertainty in trajectory prediction by a non-parametric and generalizable approach>**
 
+- The manuscript is under review and preprinted on SSRN: [manuscript (click)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4241523)
+
 ## Quick start
 
 Data Preparation
