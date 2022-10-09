@@ -1,5 +1,7 @@
 # UQnet
-### [Dittlab Online Demo](http://mirrors-dev.citg.tudelft.nl:8082/uqnet-main.py/)
+
+- Visit the DiTTlab demo page below to visualize how the model works:
+### [Dittlab Online Demo (click)](http://mirrors-dev.citg.tudelft.nl:8082/uqnet-main.py/)
 - This is the official source code of the paper manuscript: **<UQnet: quantifying spatial uncertainty in trajectory prediction by a non-parametric and generalizable approach>**
 
 ## Quick start
