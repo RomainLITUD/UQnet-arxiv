@@ -52,7 +52,7 @@
 ### Visualization
 
 * For visualization, please do not use the `VisualizeResults` notebook. It is the old test.
-* Please go to out online interactive demo for visualization (the link is the top of the page).
+* Please go to our online interactive demo for visualization (the link is on the top of the page).
 
 
 ![alt text](https://github.com/RomainLITUD/UQnet-arxiv/blob/main/figs/archi.jpg "Model Structure")
