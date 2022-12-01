@@ -1,4 +1,4 @@
-# UQnet
+# UQnet: quantifying uncertainty in vehicle motion prediction
 
 - Visit the DiTTlab demo page below to visualize how the model works:
 ### [Dittlab Online Demo (click)](http://mirrors-dev.citg.tudelft.nl:8082/uqnet-main.py/)
