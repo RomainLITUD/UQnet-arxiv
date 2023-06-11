@@ -148,7 +148,7 @@ class InteractionDataset(Dataset):
             adjacency = np.zeros((81, 81))
             adjacency[:nb_splines][...,:nb_splines] = 1
             adjacency[55:55+nb_agents][...,55:55+nb_agents] = 1
-            adjacency[:nb_splines][...,55:55+nb_agents] = 1
+            adjacency[:nb_splines][...,55:55+nb_agents] = 1 #optional
             adjacency[55:55+nb_agents][...,:nb_splines] = 1
             adj = torch.Tensor(adjacency).int().to(device)
             
